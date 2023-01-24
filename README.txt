@@ -2,8 +2,8 @@
 
 =================================================
 2.Written by: 
-	Damian Tissembaum, id= 340888122, login= damianti
-	Ori Vered,	   id = 315545400, login = orive
+	Damian Tissembaum,
+	Ori Vered
 
 3.*********** General program description***********
 
